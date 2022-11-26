@@ -1,10 +1,6 @@
+# Save: The Forest
 
-
-**The University of Melbourne**
-# COMP30019 - Graphics and Interaction
-
-For the best visualisation of the game, we would recommend to switch the resolution aspect ratio to Full HD(1920 * 1080). 
-
+A game made in Unity
 
 ### Technologies
 Project is created with:
@@ -22,6 +18,10 @@ The player can press keys `"A"` and `"D"` to move the character horizontally, `"
 
 The player aims to collect all the stars at the end of each level to win the game. If the character is killed by obstacles or enemies, the current level will restart automatically. In each level, the pause menu can be triggered by pressing the key `"Esc"`, which provides options to go back to the main menu and quit the game. Finally, The player can only reach the next level by completing the current level, and the forest will only be saved after the fox has collected all the elements.
 
+### Run the game locally
+Open in Unity 2022.1.9f1 
+Main entry: "Start Scene"
+For the best visualisation of the game, we would recommend to switch the resolution aspect ratio to Full HD(1920 * 1080). 
 
 ### References
 
