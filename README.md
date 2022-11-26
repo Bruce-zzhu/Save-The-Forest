@@ -1,5 +1,7 @@
 # Save: The Forest
 
+![screenshot](./Report/main_screenshot.png)
+
 A game made in Unity
 
 ### Technologies
