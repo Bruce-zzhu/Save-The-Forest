@@ -24,7 +24,6 @@ The player aims to collect all the stars at the end of each level to win the gam
 
 
 ### References
-  
 
 1. "Heart of The Forest" shader:  <https://zhuanlan.zhihu.com/p/443595977>
 2. Outline shader(1): <https://www.laowangomg.com/?p=712#2>
@@ -36,6 +35,11 @@ The player aims to collect all the stars at the end of each level to win the gam
 8. Random generate items(2): <https://www.youtube.com/watch?v=bIM3VAiZHeQ>
 
 
+Contributors:
+* Bruce Zhu
+* Zhikai Wu
+* Zilun Li
+* Tao Yun
 
 
 
