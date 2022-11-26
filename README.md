@@ -2,7 +2,7 @@
 
 ![screenshot](./Report/main_screenshot.png)
 
-A game made in Unity
+A game made in Unity, for subject COMP30019 Graphics and Interaction in semester 2 2022. 
 
 ### Technologies
 Project is created with:
