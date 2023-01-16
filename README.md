@@ -4,6 +4,8 @@
 
 A game made in Unity, for subject COMP30019 Graphics and Interaction in semester 2 2022. 
 
+[Demo video](https://www.youtube.com/watch?v=wKx-X8AGKSk&t=5s&ab_channel=YuArthur)
+
 ### Technologies
 Project is created with:
 * Unity 2022.1.9f1 
